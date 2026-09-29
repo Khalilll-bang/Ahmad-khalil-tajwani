@@ -1,0 +1,6 @@
+{
+  "name": "Arabiyyun fī Ḥayātī",
+  "description": "Context-based Arabic Life Simulation — عش الموقف، تكلم بالعربية، تعلم من التجربة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
